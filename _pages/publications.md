@@ -15,14 +15,16 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-* **[Preprint]** ClassEval: A Manually-Crafted Benchmark for Evaluating LLMs on Class-level Code Generation, **Xueying Du**, Mingwei Liu, Kaixin Wang, Hanlin Wang, Junwei Liu, Yixuan Chen, Jiayi Feng, Chaofeng Sha, Xin Peng, Yiling Lou. [[Paper]](https://arxiv.org/pdf/2308.01861.pdf) [[Benchmark github]](https://github.com/FudanSELab/ClassEval)
+* <span style="color:blue">**[Preprint]**</span> **ClassEval: A Manually-Crafted Benchmark for Evaluating LLMs on Class-level Code Generation**
+   **Xueying Du**, Mingwei Liu, Kaixin Wang, Hanlin Wang, Junwei Liu, Yixuan Chen, Jiayi Feng, Chaofeng Sha, Xin Peng, Yiling Lou.
+    [[Paper]](https://arxiv.org/pdf/2308.01861.pdf) [[Benchmark github]](https://github.com/FudanSELab/ClassEval)
 
-* **[FSE'23]** KG4CraSolver: Recommending Crash Solutions via Knowledge Graph, **Xueying Du**, Yiling Lou, Mingwei Liu, Xin Peng, Tianyong Yang. [[Paper]](https://2023.esec-fse.org/details/fse-2023-research-papers/76/KG4CraSolver-Recommending-Crash-Solutions-via-Knowledge-Graph)
+* <span style="color:blue">**[FSE'23]**</span> KG4CraSolver: Recommending Crash Solutions via Knowledge Graph, **Xueying Du**, Yiling Lou, Mingwei Liu, Xin Peng, Tianyong Yang. [[Paper]](https://2023.esec-fse.org/details/fse-2023-research-papers/76/KG4CraSolver-Recommending-Crash-Solutions-via-Knowledge-Graph)
 
-* **[FSE'23]** Recommending Analogical APIs via Knowledge Graph Embedding, Mingwei Liu, Yanjun Yang, Yiling Lou, Xin Peng, Zhong Zhou, **Xueying Du**, Tianyong Yang. [[Paper]](https://2023.esec-fse.org/details/fse-2023-research-papers/64/Recommending-Analogical-APIs-via-Knowledge-Graph-Embedding)
+* <span style="color:blue">**[FSE'23]**</span> Recommending Analogical APIs via Knowledge Graph Embedding, Mingwei Liu, Yanjun Yang, Yiling Lou, Xin Peng, Zhong Zhou, **Xueying Du**, Tianyong Yang. [[Paper]](https://2023.esec-fse.org/details/fse-2023-research-papers/64/Recommending-Analogical-APIs-via-Knowledge-Graph-Embedding)
 
-* **[ASE'23]** CodeGen4Libs: A Two-Stage Approach for Library-Oriented Code Generation, Mingwei Liu, Tianyong Yang, Yiling Lou, **Xueying Du**, Ying Wang, Xin Peng. [[Paper]](https://mingwei-liu.github.io/files/ase2023-CodeGen4Libs.pdf)
+* <span style="color:blue">**[ASE'23]**</span> CodeGen4Libs: A Two-Stage Approach for Library-Oriented Code Generation, Mingwei Liu, Tianyong Yang, Yiling Lou, **Xueying Du**, Ying Wang, Xin Peng. [[Paper]](https://mingwei-liu.github.io/files/ase2023-CodeGen4Libs.pdf)
 
-* **[ICSME'23]** Knowledge Graph based Explainable Question Retrieval for Programming Tasks, Mingwei Liu, Simin Yu, Xin Peng, **Xueying Du**, Tianyong Yang, Huanjun Xu, Gaoyang Zhang. [[Paper]](https://mingwei-liu.github.io/files/icsme2023-KG4QuesRecomm.pdf)
+* <span style="color:blue">**[ICSME'23]**</span> Knowledge Graph based Explainable Question Retrieval for Programming Tasks, Mingwei Liu, Simin Yu, Xin Peng, **Xueying Du**, Tianyong Yang, Huanjun Xu, Gaoyang Zhang. [[Paper]](https://mingwei-liu.github.io/files/icsme2023-KG4QuesRecomm.pdf)
 
-* **[Journal of Software 2023]** Research on Knowledge Graph Representation Learning Methods for Link Prediction: A Review, **Xueying Du**, Mingwei Liu, Liwei Sheng, Xin Peng. [[Paper]](https://www.jos.org.cn/jos/article/abstract/6902)
+* <span style="color:blue">**[Journal of Software 2023]**</span> Research on Knowledge Graph Representation Learning Methods for Link Prediction: A Review, **Xueying Du**, Mingwei Liu, Liwei Sheng, Xin Peng. [[Paper]](https://www.jos.org.cn/jos/article/abstract/6902)
