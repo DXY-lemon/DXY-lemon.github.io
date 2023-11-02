@@ -14,3 +14,6 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+* [Preprint] ClassEval: A Manually-Crafted Benchmark for Evaluating LLMs on Class-level Code Generation
+**Xueying Du**, Mingwei Liu, Kaixin Wang, Hanlin Wang, Junwei Liu, Yixuan Chen, Jiayi Feng, Chaofeng Sha, Xin Peng, Yiling Lou.
