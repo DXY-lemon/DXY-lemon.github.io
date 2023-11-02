@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-* <font color="blue"> [Preprint] </font>ClassEval: A Manually-Crafted Benchmark for Evaluating LLMs on Class-level Code Generation, **Xueying Du**, Mingwei Liu, Kaixin Wang, Hanlin Wang, Junwei Liu, Yixuan Chen, Jiayi Feng, Chaofeng Sha, Xin Peng, Yiling Lou. [[Paper]](https://arxiv.org/pdf/2308.01861.pdf) [[Benchmark github]](https://github.com/FudanSELab/ClassEval)
+* <span style="color:blue">**[Preprint]**</span> ClassEval: A Manually-Crafted Benchmark for Evaluating LLMs on Class-level Code Generation, **Xueying Du**, Mingwei Liu, Kaixin Wang, Hanlin Wang, Junwei Liu, Yixuan Chen, Jiayi Feng, Chaofeng Sha, Xin Peng, Yiling Lou. [[Paper]](https://arxiv.org/pdf/2308.01861.pdf) [[Benchmark github]](https://github.com/FudanSELab/ClassEval)
 
 * <font color="blue"> [FSE'23] </font> KG4CraSolver: Recommending Crash Solutions via Knowledge Graph, **Xueying Du**, Yiling Lou, Mingwei Liu, Xin Peng, Tianyong Yang. [[Paper]](https://2023.esec-fse.org/details/fse-2023-research-papers/76/KG4CraSolver-Recommending-Crash-Solutions-via-Knowledge-Graph)
 
