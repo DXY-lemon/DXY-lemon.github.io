@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xueying Du"
+title                    : "Xueying Du (杜雪盈)"
 title_separator          : "-"
 name                     : &name "Xueying Du"
 description              : &description "Fudan University, Software Engineering Laboratory. Research fields: AI4SE, SE4AI, Software Development Knowledge Graph"
