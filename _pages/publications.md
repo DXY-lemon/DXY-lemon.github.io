@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-* **[Preprint]** ClassEval: A Manually-Crafted Benchmark for Evaluating LLMs on Class-level Code Generation,
+* **[ICSE'24]** ClassEval: A Manually-Crafted Benchmark for Evaluating LLMs on Class-level Code Generation,
    **Xueying Du**, Mingwei Liu, Kaixin Wang, Hanlin Wang, Junwei Liu, Yixuan Chen, Jiayi Feng, Chaofeng Sha, Xin Peng, Yiling Lou.
     [[Paper]](https://arxiv.org/pdf/2308.01861.pdf) [[Benchmark github]](https://github.com/FudanSELab/ClassEval)
 
