@@ -11,9 +11,9 @@ Xueying Du is a PhD Student at Fudan University, China. As a member of [CodeWisd
 
 Talk
 ======
-- [FSE'23 oral presentation] KG4CraSolver: Recommending Crash Solutions via Knowledge Graph 
-- [FSE'23 oral presentation] Recommending Analogical APIs via Knowledge Graph Embedding
-- [ICSE'24 oral presentation] Evaluating Large Language Models in Class-Level Code Generation
+- **[FSE'23 oral presentation]** KG4CraSolver: Recommending Crash Solutions via Knowledge Graph 
+- **[FSE'23 oral presentation][ACM SIGSOFT Distinguished Paper Award]** Recommending Analogical APIs via Knowledge Graph Embedding
+- **[ICSE'24 oral presentation]** Evaluating Large Language Models in Class-Level Code Generation
 
 Teaching
 ======
