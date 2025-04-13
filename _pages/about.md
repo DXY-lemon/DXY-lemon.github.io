@@ -25,3 +25,10 @@ Academic Services
 
 - Publicity Co-chair for LLM4Code 2025
 - External Reviewer for conferences and journals, including TSE, TOSEM, ICSE, FSE, ASE, ISSTA, ACL, etc.
+
+Honors
+=====
+
+- ACM SIGSOFT Distinguished Paper Award, ESEC/FSE 2023
+- ACM-ICPC EC-final Bronze, 2018
+- National Second-Level Athlete (200m, 400m)
