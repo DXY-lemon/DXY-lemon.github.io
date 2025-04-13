@@ -23,24 +23,22 @@ Selected Publications
 
 * **[FSE'23][ACM SIGSOFT Distinguished Paper Award]** Recommending Analogical APIs via Knowledge Graph Embedding, Mingwei Liu, Yanjun Yang, Yiling Lou, Xin Peng, Zhong Zhou, **Xueying Du**, Tianyong Yang. [[Paper]](https://2023.esec-fse.org/details/fse-2023-research-papers/64/Recommending-Analogical-APIs-via-Knowledge-Graph-Embedding)
 
-
-  
-Talk
+Talks
 ======
 - **[FSE'23 oral presentation]** KG4CraSolver: Recommending Crash Solutions via Knowledge Graph 
 - **[FSE'23 oral presentation]** Recommending Analogical APIs via Knowledge Graph Embedding
 - **[ICSE'24 oral presentation]** Evaluating Large Language Models in Class-Level Code Generation
-
-Teaching
-======
-- Spring 2022 Teaching Assistant, Software Testing and Quality Assurance, Undergraduate-level Course, Fudan University, China
-- Spring 2025 Teaching Assistant, Software Engineering, Undergraduate-level Course, Fudan University, China
 
 Academic Services
 ======
 
 - Publicity Co-chair for LLM4Code 2025
 - External Reviewer for conferences and journals, including TSE, TOSEM, ICSE, FSE, ASE, ISSTA, ACL, etc.
+
+Teaching
+======
+- Spring 2022 Teaching Assistant, Software Testing and Quality Assurance, Undergraduate-level Course, Fudan University, China
+- Spring 2025 Teaching Assistant, Software Engineering, Undergraduate-level Course, Fudan University, China
 
 Honors
 =====
