@@ -25,7 +25,7 @@ author_profile: true
 
 * **[FSE'23]** KG4CraSolver: Recommending Crash Solutions via Knowledge Graph, **Xueying Du**, Yiling Lou, Mingwei Liu, Xin Peng, Tianyong Yang. [[Paper]](https://2023.esec-fse.org/details/fse-2023-research-papers/76/KG4CraSolver-Recommending-Crash-Solutions-via-Knowledge-Graph)
 
-* **[FSE'23]** Recommending Analogical APIs via Knowledge Graph Embedding, Mingwei Liu, Yanjun Yang, Yiling Lou, Xin Peng, Zhong Zhou, **Xueying Du**, Tianyong Yang. [[Paper]](https://2023.esec-fse.org/details/fse-2023-research-papers/64/Recommending-Analogical-APIs-via-Knowledge-Graph-Embedding)
+* **[FSE'23][ACM SIGSOFT Distinguished Paper Award]** Recommending Analogical APIs via Knowledge Graph Embedding, Mingwei Liu, Yanjun Yang, Yiling Lou, Xin Peng, Zhong Zhou, **Xueying Du**, Tianyong Yang. [[Paper]](https://2023.esec-fse.org/details/fse-2023-research-papers/64/Recommending-Analogical-APIs-via-Knowledge-Graph-Embedding)
 
 * **[ASE'23]** CodeGen4Libs: A Two-Stage Approach for Library-Oriented Code Generation, Mingwei Liu, Tianyong Yang, Yiling Lou, **Xueying Du**, Ying Wang, Xin Peng. [[Paper]](https://mingwei-liu.github.io/files/ase2023-CodeGen4Libs.pdf)
 
