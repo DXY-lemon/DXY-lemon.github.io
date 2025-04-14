@@ -17,7 +17,7 @@ Selected Publications
 
 * **[ICSE'24]** ClassEval: A Manually-Crafted Benchmark for Evaluating LLMs on Class-level Code Generation,
    **Xueying Du**, Mingwei Liu, Kaixin Wang, Hanlin Wang, Junwei Liu, Yixuan Chen, Jiayi Feng, Chaofeng Sha, Xin Peng, Yiling Lou.
-    [[Paper]](https://arxiv.org/pdf/2308.01861.pdf) [[Benchmark github]](https://github.com/FudanSELab/ClassEval)[[Hugging Face]](https://huggingface.co/datasets/FudanSELab/ClassEval)[<span style="color:green">*Citations 200+*</span>][<span style="color:green">*Downloads 9000+*</span>]
+    [[Paper]](https://arxiv.org/pdf/2308.01861.pdf) [[Benchmark github]](https://github.com/FudanSELab/ClassEval)[[Hugging Face]](https://huggingface.co/datasets/FudanSELab/ClassEval)[<span style="color:green">Citations 200+</span>][<span style="color:green">Downloads 9000+</span>]
 
 * **[FSE'23]** KG4CraSolver: Recommending Crash Solutions via Knowledge Graph, **Xueying Du**, Yiling Lou, Mingwei Liu, Xin Peng, Tianyong Yang. [[Paper]](https://2023.esec-fse.org/details/fse-2023-research-papers/76/KG4CraSolver-Recommending-Crash-Solutions-via-Knowledge-Graph)
 
