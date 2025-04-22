@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Xueying Du is a PhD Student at Fudan University, China. As a member of [CodeWisdom Group](http://www.se.fudan.edu.cn), she had the invaluable opportunity to work under the guidance and mentorship of [Prof. Xin Peng](https://cspengxin.github.io) and [Prof. Yiling Lou](https://yilinglou.github.io/index.html). Her research focuses on the intersection of Software Engineering (SE) and Artificial Intelligence (AI), specifically in the domains of AI4SE and SE4AI. Her primary interest lies in leveraging advanced AI technologies, such as large language models (LLMs) and knowledge graphs (KGs), to address software engineering challenges. Previously, she obtained his B.S. degree in Computer Science from Northwestern Polytechnical University in 2021.
+Xueying Du is a PhD Student at Fudan University, China. As a member of [CodeWisdom Group](http://www.se.fudan.edu.cn), she had the invaluable opportunity to work under the guidance and mentorship of [Prof. Xin Peng](https://cspengxin.github.io) and [Prof. Yiling Lou](https://yilinglou.github.io/index.html). Her research focuses on the intersection of Software Engineering (SE) and Artificial Intelligence (AI), specifically in the domains of AI4SE and SE4AI. Her primary interest lies in leveraging advanced AI technologies, such as large language models (LLMs) and knowledge graphs (KGs), to address software engineering challenges. Previously, she obtained her B.S. degree in Computer Science from Northwestern Polytechnical University in 2021.
 
 Selected Publications
 =====
@@ -17,7 +17,7 @@ Selected Publications
 
 * **[ICSE'24]** ClassEval: A Manually-Crafted Benchmark for Evaluating LLMs on Class-level Code Generation,
    **Xueying Du**, Mingwei Liu, Kaixin Wang, Hanlin Wang, Junwei Liu, Yixuan Chen, Jiayi Feng, Chaofeng Sha, Xin Peng, Yiling Lou.
-    [[Paper]](https://arxiv.org/pdf/2308.01861.pdf) [[Benchmark github]](https://github.com/FudanSELab/ClassEval)[[Hugging Face]](https://huggingface.co/datasets/FudanSELab/ClassEval)[<span style="color:green">Citations 200+</span>][<span style="color:green">Downloads 9000+</span>]
+    [[Paper]](https://arxiv.org/pdf/2308.01861.pdf) [[Benchmark github]](https://github.com/FudanSELab/ClassEval)[[Hugging Face]](https://huggingface.co/datasets/FudanSELab/ClassEval)**[<span style="color:green">Downloads 9000+</span>]**
 
 * **[FSE'23]** KG4CraSolver: Recommending Crash Solutions via Knowledge Graph, **Xueying Du**, Yiling Lou, Mingwei Liu, Xin Peng, Tianyong Yang. [[Paper]](https://2023.esec-fse.org/details/fse-2023-research-papers/76/KG4CraSolver-Recommending-Crash-Solutions-via-Knowledge-Graph)
 
