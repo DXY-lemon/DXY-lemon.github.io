@@ -11,15 +11,15 @@ Xueying Du is a PhD Student at Fudan University, China. As a member of [CodeWisd
 
 Selected Publications
 =====
-* **[Preprint]** Vul-RAG: Enhancing LLM-based Vulnerability Detection via Knowledge-level RAG, **Xueying Du**, Geng Zhang, Kaixin Wang, Jiayi Feng, Wentai Deng, Mingwei Liu, Bihuan Chen, Xin Peng, Tao Ma, Yiling Lou.   [[Paper]](https://arxiv.org/pdf/2406.11147)
+* **[Tosem'26]** Vul-RAG: Enhancing LLM-based Vulnerability Detection via Knowledge-level RAG, **Xueying Du**, Geng Zhang, Kaixin Wang, Jiayi Feng, Wentai Deng, Mingwei Liu, Bihuan Chen, Xin Peng, Tao Ma, Yiling Lou.   [[Paper]](https://arxiv.org/pdf/2406.11147)
   
 * **[ICSE'26]** Reducing False Positives in Static Bug Detection with LLMs: An Empirical Study in Industry, **Xueying Du**, Jiayi Feng, Yi Zou, Jiayi Feng, Wei Xu, Jie Ma, Wei Zhang, Sisi Liu, Xin Peng, Yiling Lou.
     
-* **[Tosem'25]** Resolving Crash Bugs via Large Language Models: An Empirical Study, **Xueying Du**, Mingwei Liu, Juntao Li, Hanlin Wang, Xin Peng, Yiling Lou.  [[Paper]](https://arxiv.org/abs/2312.10448)
+* **[Tosem'26]** Resolving Crash Bugs via Large Language Models: An Empirical Study, **Xueying Du**, Mingwei Liu, Juntao Li, Hanlin Wang, Xin Peng, Yiling Lou.  [[Paper]](https://arxiv.org/abs/2312.10448)
 
 * **[ICSE'24]** ClassEval: A Manually-Crafted Benchmark for Evaluating LLMs on Class-level Code Generation,
    **Xueying Du**, Mingwei Liu, Kaixin Wang, Hanlin Wang, Junwei Liu, Yixuan Chen, Jiayi Feng, Chaofeng Sha, Xin Peng, Yiling Lou.
-    [[Paper]](https://arxiv.org/pdf/2308.01861.pdf) [[Benchmark github]](https://github.com/FudanSELab/ClassEval)[[Hugging Face]](https://huggingface.co/datasets/FudanSELab/ClassEval)**[<span style="color:green">Downloads 25000+</span>]**
+    [[Paper]](https://arxiv.org/pdf/2308.01861.pdf) [[Benchmark github]](https://github.com/FudanSELab/ClassEval)[[Hugging Face]](https://huggingface.co/datasets/FudanSELab/ClassEval)**[<span style="color:green">Downloads 30000+</span>]**
 
 * **[FSE'23]** KG4CraSolver: Recommending Crash Solutions via Knowledge Graph, **Xueying Du**, Yiling Lou, Mingwei Liu, Xin Peng, Tianyong Yang. [[Paper]](https://2023.esec-fse.org/details/fse-2023-research-papers/76/KG4CraSolver-Recommending-Crash-Solutions-via-Knowledge-Graph)
 
@@ -33,7 +33,7 @@ Talks
 
 Academic Services
 ======
-- Program Committee for ASE 2025
+- Program Committee for ASE 2025, 2026
 - Publicity Co-chair for LLM4Code 2025
 - External Reviewer for conferences and journals, including TSE, TOSEM, ICSE, FSE, ASE, ISSTA, ACL, etc.
 
@@ -41,10 +41,3 @@ Teaching
 ======
 - Spring 2022 Teaching Assistant, Software Testing and Quality Assurance, Undergraduate-level Course, Fudan University, China
 - Spring 2025 Teaching Assistant, Software Engineering, Undergraduate-level Course, Fudan University, China
-
-Honors
-=====
-
-- ACM SIGSOFT Distinguished Paper Award, ESEC/FSE 2023
-- ACM-ICPC EC-final Bronze, 2018
-- National Second-Level Athlete (200m, 400m)
