@@ -15,17 +15,16 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-* **[TOSEM'26]** Vul-RAG: Enhancing LLM-based Vulnerability Detection via Knowledge-level RAG, **Xueying Du**, Geng Zhang, Kaixin Wang, Jiayi Feng, Wentai Deng, Mingwei Liu, Bihuan Chen, Xin Peng, Tao Ma, Yiling Lou.   [[Paper]](https://arxiv.org/pdf/2406.11147)
+* **[TOSEM'26]** Vul-RAG: Enhancing LLM-based Vulnerability Detection via Knowledge-level RAG, **Xueying Du**, Geng Zhang, Kaixin Wang, Jiayi Feng, Wentai Deng, Mingwei Liu, Bihuan Chen, Xin Peng, Tao Ma, Yiling Lou.   [[Paper]](https://dl.acm.org/doi/abs/10.1145/3797277)
+  
+* **[ICSE'26]** Reducing False Positives in Static Bug Detection with LLMs: An Empirical Study in Industry, **Xueying Du**, Jiayi Feng, Yi Zou, Jiayi Feng, Wei Xu, Jie Ma, Wei Zhang, Sisi Liu, Xin Peng, Yiling Lou.
+    
+* **[TOSEM'26]** Exploring Large Language Models in Resolving Environment-Related Crash Bugs: Localizing and Repairing, **Xueying Du**, Mingwei Liu, Juntao Li, Hanlin Wang, Xin Peng, Yiling Lou.  [[Paper]](https://dl.acm.org/doi/epdf/10.1145/3788866)
 
-* **[ICSE'26]** Reducing False Positives in Static Bug Detection with LLMs: An Empirical Study in Industry, Xueying Du, Jiayi Feng, Yi Zou, Jiayi Feng, Wei Xu, Jie Ma, Wei Zhang, Sisi Liu, Xin Peng, Yiling Lou.
+* **[ICSE'24]** Evaluating Large Language Models in Class-Level Code Generation, **Xueying Du**, Mingwei Liu, Kaixin Wang, Hanlin Wang, Junwei Liu, Yixuan Chen, Jiayi Feng, Chaofeng Sha, Xin Peng, Yiling Lou.
+    [[Paper]](https://dl.acm.org/doi/epdf/10.1145/3597503.3639219) [[Benchmark github]](https://github.com/FudanSELab/ClassEval)[[Hugging Face]](https://huggingface.co/datasets/FudanSELab/ClassEval)
 
-* **[TOSEM'26]** Resolving Crash Bugs via Large Language Models: An Empirical Study, **Xueying Du**, Mingwei Liu, Juntao Li, Hanlin Wang, Xin Peng, Yiling Lou.  [[Paper]](https://arxiv.org/abs/2312.10448)
-
-* **[ICSE'24]** ClassEval: A Manually-Crafted Benchmark for Evaluating LLMs on Class-level Code Generation,
-   **Xueying Du**, Mingwei Liu, Kaixin Wang, Hanlin Wang, Junwei Liu, Yixuan Chen, Jiayi Feng, Chaofeng Sha, Xin Peng, Yiling Lou.
-    [[Paper]](https://arxiv.org/pdf/2308.01861.pdf) [[Benchmark github]](https://github.com/FudanSELab/ClassEval)
-
-* **[FSE'23]** KG4CraSolver: Recommending Crash Solutions via Knowledge Graph, **Xueying Du**, Yiling Lou, Mingwei Liu, Xin Peng, Tianyong Yang. [[Paper]](https://2023.esec-fse.org/details/fse-2023-research-papers/76/KG4CraSolver-Recommending-Crash-Solutions-via-Knowledge-Graph)
+* **[FSE'23]** KG4CraSolver: Recommending Crash Solutions via Knowledge Graph, **Xueying Du**, Yiling Lou, Mingwei Liu, Xin Peng, Tianyong Yang. [[Paper]](https://mingwei-liu.github.io/assets/pdf/FSE2023-KG4CraSolver.pdf)
 
 * **[FSE'23]<span style="color:green">[ACM SIGSOFT Distinguished Paper Award]</span>** Recommending Analogical APIs via Knowledge Graph Embedding, Mingwei Liu, Yanjun Yang, Yiling Lou, Xin Peng, Zhong Zhou, **Xueying Du**, Tianyong Yang. [[Paper]](https://2023.esec-fse.org/details/fse-2023-research-papers/64/Recommending-Analogical-APIs-via-Knowledge-Graph-Embedding)
 
