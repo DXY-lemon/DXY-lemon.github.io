@@ -11,11 +11,11 @@ Xueying Du is a PhD Student at Fudan University, China. As a member of [CodeWisd
 
 Selected Publications
 =====
-* **[Tosem'26]** Vul-RAG: Enhancing LLM-based Vulnerability Detection via Knowledge-level RAG, **Xueying Du**, Geng Zhang, Kaixin Wang, Jiayi Feng, Wentai Deng, Mingwei Liu, Bihuan Chen, Xin Peng, Tao Ma, Yiling Lou.   [[Paper]](https://arxiv.org/pdf/2406.11147)
+* **[TOSEM'26]** Vul-RAG: Enhancing LLM-based Vulnerability Detection via Knowledge-level RAG, **Xueying Du**, Geng Zhang, Kaixin Wang, Jiayi Feng, Wentai Deng, Mingwei Liu, Bihuan Chen, Xin Peng, Tao Ma, Yiling Lou.   [[Paper]](https://arxiv.org/pdf/2406.11147)
   
 * **[ICSE'26]** Reducing False Positives in Static Bug Detection with LLMs: An Empirical Study in Industry, **Xueying Du**, Jiayi Feng, Yi Zou, Jiayi Feng, Wei Xu, Jie Ma, Wei Zhang, Sisi Liu, Xin Peng, Yiling Lou.
     
-* **[Tosem'26]** Resolving Crash Bugs via Large Language Models: An Empirical Study, **Xueying Du**, Mingwei Liu, Juntao Li, Hanlin Wang, Xin Peng, Yiling Lou.  [[Paper]](https://arxiv.org/abs/2312.10448)
+* **[TOSEM'26]** Resolving Crash Bugs via Large Language Models: An Empirical Study, **Xueying Du**, Mingwei Liu, Juntao Li, Hanlin Wang, Xin Peng, Yiling Lou.  [[Paper]](https://arxiv.org/abs/2312.10448)
 
 * **[ICSE'24]** ClassEval: A Manually-Crafted Benchmark for Evaluating LLMs on Class-level Code Generation,
    **Xueying Du**, Mingwei Liu, Kaixin Wang, Hanlin Wang, Junwei Liu, Yixuan Chen, Jiayi Feng, Chaofeng Sha, Xin Peng, Yiling Lou.
