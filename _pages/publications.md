@@ -15,6 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+[📝 View Preprints ↓](#preprints)
+
 * **[NeurIPS'26]** Agents as Neuro-Symbolic Reasoners: Path Feasibility Reasoning for Precise Static Bug Detection, **Xueying Du**, Kai Yu, Chong Wang, Yi Zou, Wentai Deng, Zuoyu Ou, Xin Peng, Yiling Lou.
 
 * **[TOSEM'26]** VulWeaver: Weaving Broken Semantics for Grounded Vulnerability Detection, Yiheng Cao, Yihao Chen, Xin Hu, Bihuan Chen, Jiayi Deng, Zhuotong Zhou, Susheng Wu, Yiheng Huang, **Xueying Du**, Xingman Chen, Miaohua Li, Xin Peng. [[Paper]](https://arxiv.org/abs/2604.10767)

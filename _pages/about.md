@@ -10,6 +10,7 @@ redirect_from:
 I am currently a Postdoctoral Research Fellow at the National University of Singapore (NUS), working with [Prof. Jin Song Dong](https://www.comp.nus.edu.sg/~dongjs/). I received my Ph.D. in Computer Science from Fudan University in 2026, where I advised by [Prof. Xin Peng](https://cspengxin.github.io/) and [Prof. Yiling Lou](https://yilinglou.github.io/index.html). My research lies at the intersection of **Software Engineering (SE) and Artificial Intelligence (AI)**, with a particular focus on AI for Software Engineering (AI4SE). I am particularly interested in combining large language models (LLMs) with knowledge engineering to address real-world challenges in software development, maintenance, and security.
 
 # 🔥 News
+{: #news}
 
 - 🌱 **2026.10**: I joined the National University of Singapore (NUS) as a Postdoctoral Research Fellow.
 - 🎉 **2026.09**: Our paper, “Agents as Neuro-Symbolic Reasoners: Path Feasibility Reasoning for Precise Static Bug Detection,” was accepted to **NeurIPS 2026**.
@@ -30,12 +31,23 @@ I am currently a Postdoctoral Research Fellow at the National University of Sing
 - **[FSE'23]** KG4CraSolver: Recommending Crash Solutions via Knowledge Graph, **Xueying Du**, Yiling Lou, Mingwei Liu, Xin Peng, Tianyong Yang. [[Paper]](https://mingwei-liu.github.io/assets/pdf/FSE2023-KG4CraSolver.pdf)
 
 # 📋 Academic Services
+{: #services}
 
 - Program Committee for ASE 2025, 2026
 - Publicity Co-chair for LLM4Code 2025
 - External Reviewer for conferences and journals, including TSE, TOSEM, ICSE, FSE, ASE, ISSTA, ACL, etc.
 
 # 🧑‍🏫 Teaching
+{: #teaching}
 
 - Spring 2022 Teaching Assistant, Software Testing and Quality Assurance, Undergraduate-level Course, Fudan University, China
 - Spring 2025 Teaching Assistant, Software Engineering, Undergraduate-level Course, Fudan University, China
+
+# 🎖 Honors and Awards
+{: #honors}
+
+- Outstanding Graduate of Shanghai, 2026
+- Highly Cited Review Paper Award, Journal of Software, 2024
+- ACM SIGSOFT Distinguished Paper Award, ESEC/FSE, 2023
+- ACM-ICPC EC-final Bronze, 2018
+- National Second-Level Athlete, China (200m, 400m)

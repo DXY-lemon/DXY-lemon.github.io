@@ -2,5 +2,12 @@
 main:
   - title: "Publications"
     url: /publications/
-
+  - title: "News"
+    url: /#news
+  - title: "Services"
+    url: /#services
+  - title: "Teaching"
+    url: /#teaching
+  - title: "Honors"
+    url: /#honors
 
