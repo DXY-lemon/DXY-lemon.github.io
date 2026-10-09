@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xueying Du (杜雪盈)"
 title_separator          : "-"
 name                     : &name "Xueying Du"
-description              : &description "Fudan University, Software Engineering Laboratory. Research fields: AI4SE, SE4AI, Software Development Knowledge Graph"
+description              : &description "Postdoctoral Research Fellow at the National University of Singapore (NUS). Research interests: AI for Software Engineering (AI4SE), Large Language Models, and Knowledge Engineering."
 url                      : https://DXY-lemon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DXY-lemon.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xueying Du"
   avatar           : "dxy-photo.jpg"
-  bio              : "Fudan University, Software Engineering Laboratory, PhD student. Research fields: AI4SE, SE4AI, Software Development Knowledge Graph"
-  location         : "Fudan University"
+  bio              : "Postdoctoral Research Fellow at the National University of Singapore (NUS). Research interests: Research fields: AI4SE, SE4AI, Software Development Knowledge Graph"
+  location         : "National University of Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=8U62_KQAAAAJ"
-  email            : "xueyingdu21@m.fudan.edu.cn"
+  email            : "xueyingdu@nus.edu.sg"
   researchgate     : "https://www.researchgate.net/profile/Xueying-Du-4"
   uri              :
   bitbucket        :
