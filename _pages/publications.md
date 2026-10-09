@@ -15,8 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-[📝 View Preprints ↓](#preprints)
-
 * **[NeurIPS'26]** Agents as Neuro-Symbolic Reasoners: Path Feasibility Reasoning for Precise Static Bug Detection, **Xueying Du**, Kai Yu, Chong Wang, Yi Zou, Wentai Deng, Zuoyu Ou, Xin Peng, Yiling Lou.
 
 * **[TOSEM'26]** VulWeaver: Weaving Broken Semantics for Grounded Vulnerability Detection, Yiheng Cao, Yihao Chen, Xin Hu, Bihuan Chen, Jiayi Deng, Zhuotong Zhou, Susheng Wu, Yiheng Huang, **Xueying Du**, Xingman Chen, Miaohua Li, Xin Peng. [[Paper]](https://arxiv.org/abs/2604.10767)
@@ -30,6 +28,8 @@ author_profile: true
 * **[ICSE'24]** Evaluating Large Language Models in Class-Level Code Generation, **Xueying Du**, Mingwei Liu, Kaixin Wang, Hanlin Wang, Junwei Liu, Yixuan Chen, Jiayi Feng, Chaofeng Sha, Xin Peng, Yiling Lou.
     [[Paper]](https://dl.acm.org/doi/epdf/10.1145/3597503.3639219) [[Benchmark github]](https://github.com/FudanSELab/ClassEval)[[Hugging Face]](https://huggingface.co/datasets/FudanSELab/ClassEval)
 
+* **[Journal of Software 2024]** Research on Knowledge Graph Representation Learning Methods for Link Prediction: A Review (面向链接预测的知识图谱表示学习方法综述), **Xueying Du**, Mingwei Liu, Liwei Shen, Xin Peng. [[Paper]](https://www.jos.org.cn/jos/article/abstract/6902)
+  
 * **[FSE'23]** KG4CraSolver: Recommending Crash Solutions via Knowledge Graph, **Xueying Du**, Yiling Lou, Mingwei Liu, Xin Peng, Tianyong Yang. [[Paper]](https://mingwei-liu.github.io/assets/pdf/FSE2023-KG4CraSolver.pdf)
 
 * **[FSE'23]<span style="color:green">[ACM SIGSOFT Distinguished Paper Award]</span>** Recommending Analogical APIs via Knowledge Graph Embedding, Mingwei Liu, Yanjun Yang, Yiling Lou, Xin Peng, Zhong Zhou, **Xueying Du**, Tianyong Yang. [[Paper]](https://2023.esec-fse.org/details/fse-2023-research-papers/64/Recommending-Analogical-APIs-via-Knowledge-Graph-Embedding)
@@ -37,8 +37,6 @@ author_profile: true
 * **[ASE'23]** CodeGen4Libs: A Two-Stage Approach for Library-Oriented Code Generation, Mingwei Liu, Tianyong Yang, Yiling Lou, **Xueying Du**, Ying Wang, Xin Peng. [[Paper]](https://mingwei-liu.github.io/files/ase2023-CodeGen4Libs.pdf)
 
 * **[ICSME'23]** Knowledge Graph based Explainable Question Retrieval for Programming Tasks, Mingwei Liu, Simin Yu, Xin Peng, **Xueying Du**, Tianyong Yang, Huanjun Xu, Gaoyang Zhang. [[Paper]](https://mingwei-liu.github.io/files/icsme2023-KG4QuesRecomm.pdf)
-
-* **[Journal of Software 2024]** Research on Knowledge Graph Representation Learning Methods for Link Prediction: A Review (面向链接预测的知识图谱表示学习方法综述), **Xueying Du**, Mingwei Liu, Liwei Shen, Xin Peng. [[Paper]](https://www.jos.org.cn/jos/article/abstract/6902)
 
 ## Preprints
 
