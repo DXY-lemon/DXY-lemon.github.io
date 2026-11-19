@@ -27,7 +27,7 @@ I am currently a Postdoctoral Research Fellow at the National University of Sing
 - **[TOSEM'26]** Vul-RAG: Enhancing LLM-based Vulnerability Detection via Knowledge-level RAG, **Xueying Du**, Geng Zhang, Kaixin Wang, Jiayi Feng, Wentai Deng, Mingwei Liu, Bihuan Chen, Xin Peng, Tao Ma, Yiling Lou. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3797277)
 - **[TOSEM'26]** Exploring Large Language Models in Resolving Environment-Related Crash Bugs: Localizing and Repairing, **Xueying Du**, Mingwei Liu, Juntao Li, Hanlin Wang, Xin Peng, Yiling Lou.  [[Paper]](https://dl.acm.org/doi/epdf/10.1145/3788866)
 - **[ICSE'24]** Evaluating Large Language Models in Class-Level Code Generation, **Xueying Du**, Mingwei Liu, Kaixin Wang, Hanlin Wang, Junwei Liu, Yixuan Chen, Jiayi Feng, Chaofeng Sha, Xin Peng, Yiling Lou.
-[[Paper]](https://dl.acm.org/doi/epdf/10.1145/3597503.3639219) [[Benchmark github][Hugging Face]](https://github.com/FudanSELab/ClassEval)**[Downloads 50000+][Citation 750+]**
+[[Paper]](https://dl.acm.org/doi/epdf/10.1145/3597503.3639219) [[Benchmark github][Hugging Face]](https://github.com/FudanSELab/ClassEval)**<span style="color:green">[Downloads 50000+][Citation 750+]</span>**
 - **[FSE'23]** KG4CraSolver: Recommending Crash Solutions via Knowledge Graph, **Xueying Du**, Yiling Lou, Mingwei Liu, Xin Peng, Tianyong Yang. [[Paper]](https://mingwei-liu.github.io/assets/pdf/FSE2023-KG4CraSolver.pdf)
 
 # 📋 Academic Services
