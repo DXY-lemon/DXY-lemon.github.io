@@ -30,25 +30,6 @@ I am currently a Postdoctoral Research Fellow at the National University of Sing
 [[Paper]](https://dl.acm.org/doi/epdf/10.1145/3597503.3639219) [[Benchmark github][Hugging Face]](https://github.com/FudanSELab/ClassEval)**<span style="color:green">[Downloads 50000+][Citation 750+]</span>**
 - **[FSE'23]** KG4CraSolver: Recommending Crash Solutions via Knowledge Graph, **Xueying Du**, Yiling Lou, Mingwei Liu, Xin Peng, Tianyong Yang. [[Paper]](https://mingwei-liu.github.io/assets/pdf/FSE2023-KG4CraSolver.pdf)
 
-# 📋 Academic Services
-{: #services}
-
-- **Program Committee** 
-  - ICSE 2027 Industry Challenge Track
-  - SANER 2027 Research Track
-  - ASE 2026 Research Track
-  - ASE 2025 Research Track
-- **Publicity Co-chair** for LLM4Code 2025
-- **Journal Reviewer**
-  - IEEE Transactions on Software Engineering (TSE)
-  - ACM Transactions on Software Engineering and Methodology (TOSEM)
-    
-# 🧑‍🏫 Teaching
-{: #teaching}
-
-- Spring 2022 Teaching Assistant, Software Testing and Quality Assurance, Undergraduate-level Course, Fudan University, China
-- Spring 2025 Teaching Assistant, Software Engineering, Undergraduate-level Course, Fudan University, China
-
 # 🎖 Honors and Awards
 {: #honors}
 
