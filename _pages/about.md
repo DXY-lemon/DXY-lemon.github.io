@@ -27,15 +27,15 @@ I am currently a Postdoctoral Research Fellow at the National University of Sing
 - **[TOSEM'26]** Vul-RAG: Enhancing LLM-based Vulnerability Detection via Knowledge-level RAG, **Xueying Du**, Geng Zhang, Kaixin Wang, Jiayi Feng, Wentai Deng, Mingwei Liu, Bihuan Chen, Xin Peng, Tao Ma, Yiling Lou. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3797277)
 - **[TOSEM'26]** Exploring Large Language Models in Resolving Environment-Related Crash Bugs: Localizing and Repairing, **Xueying Du**, Mingwei Liu, Juntao Li, Hanlin Wang, Xin Peng, Yiling Lou.  [[Paper]](https://dl.acm.org/doi/epdf/10.1145/3788866)
 - **[ICSE'24]** Evaluating Large Language Models in Class-Level Code Generation, **Xueying Du**, Mingwei Liu, Kaixin Wang, Hanlin Wang, Junwei Liu, Yixuan Chen, Jiayi Feng, Chaofeng Sha, Xin Peng, Yiling Lou.
-[[Paper]](https://dl.acm.org/doi/epdf/10.1145/3597503.3639219) [[Benchmark github][Hugging Face]](https://github.com/FudanSELab/ClassEval)**[Downloads 30000+]**
+[[Paper]](https://dl.acm.org/doi/epdf/10.1145/3597503.3639219) [[Benchmark github][Hugging Face]](https://github.com/FudanSELab/ClassEval)**[Downloads 50000+][Citation 750+]**
 - **[FSE'23]** KG4CraSolver: Recommending Crash Solutions via Knowledge Graph, **Xueying Du**, Yiling Lou, Mingwei Liu, Xin Peng, Tianyong Yang. [[Paper]](https://mingwei-liu.github.io/assets/pdf/FSE2023-KG4CraSolver.pdf)
 
 # 📋 Academic Services
 {: #services}
 
-- Program Committee for ASE 2025, 2026
+- Program Committee for ICSE 2027 Industry Challenge Track, SANER 2027 Research Track, ASE 2026 Research Track, ASE 2025 Research Track
 - Publicity Co-chair for LLM4Code 2025
-- External Reviewer for conferences and journals, including TSE, TOSEM, ICSE, FSE, ASE, ISSTA, ACL, etc.
+- Journal Reviewer for TSE, TOSEM, etc
 
 # 🧑‍🏫 Teaching
 {: #teaching}
