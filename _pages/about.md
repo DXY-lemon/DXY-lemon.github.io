@@ -33,10 +33,16 @@ I am currently a Postdoctoral Research Fellow at the National University of Sing
 # 📋 Academic Services
 {: #services}
 
-- Program Committee for ICSE 2027 Industry Challenge Track, SANER 2027 Research Track, ASE 2026 Research Track, ASE 2025 Research Track
-- Publicity Co-chair for LLM4Code 2025
-- Journal Reviewer for TSE, TOSEM, etc
-
+- **Program Committee** 
+  - ICSE 2027 Industry Challenge Track
+  - SANER 2027 Research Track
+  - ASE 2026 Research Track
+  - ASE 2025 Research Track
+- **Publicity Co-chair** for LLM4Code 2025
+- **Journal Reviewer**
+  - IEEE Transactions on Software Engineering (TSE)
+  - ACM Transactions on Software Engineering and Methodology (TOSEM)
+    
 # 🧑‍🏫 Teaching
 {: #teaching}
 
